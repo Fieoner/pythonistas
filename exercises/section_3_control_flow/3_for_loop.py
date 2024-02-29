@@ -12,4 +12,4 @@ for ?? in range(??, ??):
 # Edit between these lines to make the test pass
 
 def test_range_sum():
-    assert total_sum = 55 # 55 is 1 + 2 + ...10
+    assert total_sum == 55 # 55 is 1 + 2 + ...10
